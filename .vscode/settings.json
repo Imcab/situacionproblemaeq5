@@ -1,0 +1,20 @@
+{
+    "ROS2.distro": "humble",
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.configureOnOpen": true,
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "C_Cpp.default.cppStandard": "c++17",
+    "python.autoComplete.extraPaths": [
+        "/data/ros2_px4_ws/install/px4_ros_com/local/lib/python3.10/dist-packages",
+        "/data/ros2_px4_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/data/ros2_px4_ws/install/px4_ros_com/local/lib/python3.10/dist-packages",
+        "/data/ros2_px4_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

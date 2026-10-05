@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/imad/Desktop/situacionproblemaeq5/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/imad/Desktop/situacionproblemaeq5/main.cpp",
+  "file": "/home/imad/Desktop/situacionproblemaeq5/main.cpp"
+}
+]
